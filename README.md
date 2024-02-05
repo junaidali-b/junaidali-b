@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidali-b&label=Profile%20views&color=0e75b6&style=flat" alt="junaidali-b" /> </p>
 
-- 🌱 I’m currently learning **AWS, Apache Spark, PyTorch, Rust**
+- 🌱 I’m currently learning **AWS, Apache Spark, PyTorch, Rust, Docker**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/junaidali](https://www.datascienceportfol.io/junaidali)
 
